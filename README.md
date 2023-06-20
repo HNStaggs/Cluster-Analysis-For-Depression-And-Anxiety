@@ -1,2 +1,2 @@
-# Cluster-Analysis-For-Depression-And-Anxiety
+# Cognitive Phenotype Clusters in Comorbid Depression and Anxiety 
 Cluster analysis for depression and anxiety comorbidity. 
