@@ -42,7 +42,42 @@ There was an absent and present condition. The absent condition was sensitive to
 The two metrics pulled from the task were: accuracy and reaction time z-scores.
 
 
+![image](https://github.com/HNStaggs/Cluster-Analysis-For-Depression-And-Anxiety/assets/116909067/33dad641-1eb1-4bbe-a3b3-d3c730e9444b)
+
+
 # DATA ANALYSIS METHODS
+R Studio
+
 K-means clustering
+
+
+![image](https://github.com/HNStaggs/Cluster-Analysis-For-Depression-And-Anxiety/assets/116909067/e6f9187f-404b-47ef-88fa-ca7c6bffc300)
+
+
+Cluster Differences
+
+Red Cluster
+  Reaction Time 1.3s ± 0.8s
+  Accuracy 20.3% ± 15.4%
+Green Cluster
+  Reaction Time 1.8s ± 0.5s
+  Accuracy 93.6% ± 9.6%
+Blue Cluster
+  Reaction Time 1.1s ± 0.2s
+  Accuracy mean 94.4% ± 9.8% 
+
+Statistically significant differences: 
+  Sex (X2 (2) = 10.6, p = .0051)
+  Age (F(2, 47.7) = 6.84, p = .0014)
+
+PHQ Scores by Cluster Non-Significant p = .2
+
+![image](https://github.com/HNStaggs/Cluster-Analysis-For-Depression-And-Anxiety/assets/116909067/f8434d08-ffda-4d89-aad8-552f23a00077)
+
+
+GAD Scores by Cluster Non-Significant p = .5
+
+![image](https://github.com/HNStaggs/Cluster-Analysis-For-Depression-And-Anxiety/assets/116909067/f36cd1ea-436f-45b7-a1df-0259c7fc9143)
+
 
 
